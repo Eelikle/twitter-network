@@ -1,4 +1,4 @@
-# pulti-page-site
+# multi-page-site
 
 ## Project setup
 ```
